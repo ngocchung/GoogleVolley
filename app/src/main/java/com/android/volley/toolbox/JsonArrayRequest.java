@@ -59,7 +59,6 @@ public class JsonArrayRequest extends JsonRequest<JSONArray> {
     }
 
     /**
-     * [Chungph, 2015/09/10]
      * @param method the HTTP method to use
      * @param url URL to fetch the JSON from
      * @param jsonRequest A {@link JSONObject} to post with the request. Null is allowed and
